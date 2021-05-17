@@ -1,9 +1,6 @@
 # Welcome to daalrimi
 
 ```markdown
-
-
-
 동국대학교 교육대학원 AI융합전공 기말프로젝트의 위대한 결과물 
 ```
 ## daalrimi 소개
@@ -29,23 +26,7 @@
 daalrimi와 대화가 안될 땐 '안녕'하고 인사를 하거나 '다알리미' 라고 정답게 불러보세요   🤗  
 다시 처음부터 대화를 하실 수 있습니다.  
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
