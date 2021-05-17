@@ -2,7 +2,7 @@
 
 ```markdown
 
-Syntax highlighted code block
+
 
 동국대학교 교육대학원 AI융합전공 기말프로젝트의 위대한 결과물 
 ```
@@ -13,11 +13,11 @@ Syntax highlighted code block
  오른쪽 아래에 있는 daalrimi를 통해 원하는것을 물어보세요
  
 ## daalrimi가 할 수 있는 대화
-1. 구인 과목 안내
-2. 시간표 안내
-3. 보수 안내
-4. 제출 서류 안내
-5. 마감일 안내
+- 구인 과목 안내
+- 시간표 안내
+- 보수 안내
+- 제출 서류 안내
+- 마감일 안내
  
  _daalrimi 와의 대화를 통해 면접일을 정하실 수도 있습니다._ 😄 
  
@@ -26,7 +26,7 @@ Syntax highlighted code block
 [상계중](http://sanggye.sen.ms.kr) 
  
 ### sos
-daalrimi와 대화가 안될 땐 '안녕'하고 인사를 해보세요   🤗
+daalrimi와 대화가 안될 땐 '안녕'하고 인사를 하거나 '다알리미' 라고 정답게 불러보세요   🤗  
 다시 처음부터 대화를 하실 수 있습니다.  
 
 ```markdown
