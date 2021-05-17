@@ -10,7 +10,7 @@ Syntax highlighted code block
  ![image](https://user-images.githubusercontent.com/81285533/118516921-b9b89000-b771-11eb-94fb-d44f11f0dfb5.jpg)  
  안녕하세요 daalrimi에요  
 저는 상계중학교에서 구하는 시간강사 선생님과 구직을 원하는 선생님을 연결해드리는 매칭 챗봇입니다.  
- 오른쪽아래에 있는 daalrimi를 통해 원하는것을 물어보세요
+ 오른쪽 아래에 있는 daalrimi를 통해 원하는것을 물어보세요
  
 ## daalrimi가 할 수 있는 대화
 1. 구인 과목 안내
