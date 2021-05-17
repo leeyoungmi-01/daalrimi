@@ -19,14 +19,14 @@ Syntax highlighted code block
 4. 제출 서류 안내
 5. 마감일 안내
  
- _daalrimi 와의 대화를 통해 면접일을 정하실 수도 있습니다._  
+ _daalrimi 와의 대화를 통해 면접일을 정하실 수도 있습니다._ 😄 
  
 ## 상계중학교
 아래 링크를 클릭하면 학교 홈페이지로 연결됩니다. 홈페이지를 참고해 학교 위치와 전화번호를 참고하세요  
-[상계중](http://sanggye.sen.ms.kr)
+[상계중](http://sanggye.sen.ms.kr) 
  
 ### sos
-daalrimi와 대화가 안될 땐 '안녕'하고 인사를 해보세요  
+daalrimi와 대화가 안될 땐 '안녕'하고 인사를 해보세요   🤗
 다시 처음부터 대화를 하실 수 있습니다.  
 
 ```markdown
